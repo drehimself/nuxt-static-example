@@ -1,3 +1,15 @@
 <template>
-  <div>Blog Post content. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, beatae? Quos quia quisquam tenetur culpa sint ex sunt maiores impedit! At cupiditate cumque amet ipsa, fugiat cum nulla voluptatum ullam! Lorem ipsum, dolor sit amet consectetur adipisicing elit. At dolore, harum cupiditate dolor soluta est deleniti ipsa tenetur laudantium et.</div>
+  <div class="container-inner m-auto leading-normal">
+    <h1 class="mb-4">Blog Post 4</h1>
+
+    <p class="mb-4 text-lg">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa consequatur dolores dolore eveniet non eaque vero repellat, doloremque rerum iste tempore numquam illo natus vitae delectus eius? Nihil accusantium ducimus culpa veniam fugiat assumenda? Reiciendis sunt temporibus quidem, consequatur incidunt nisi. Unde velit aspernatur, atque exercitationem aperiam fugiat perspiciatis voluptatum?
+    </p>
+    <p class="mb-4 text-lg">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa consequatur dolores dolore eveniet non eaque vero repellat, doloremque rerum iste tempore numquam illo natus vitae delectus eius? Nihil accusantium ducimus culpa veniam fugiat assumenda? Reiciendis sunt temporibus quidem, consequatur incidunt nisi. Unde velit aspernatur, atque exercitationem aperiam fugiat perspiciatis voluptatum?
+    </p>
+    <p class="mb-4 text-lg">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa consequatur dolores dolore eveniet non eaque vero repellat, doloremque rerum iste tempore numquam illo natus vitae delectus eius? Nihil accusantium ducimus culpa veniam fugiat assumenda? Reiciendis sunt temporibus quidem, consequatur incidunt nisi. Unde velit aspernatur, atque exercitationem aperiam fugiat perspiciatis voluptatum?
+    </p>
+  </div>
 </template>
